@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/M%C3%BCnchen_Panorama.JPG/1024px-M%C3%BCnchen_Panorama.JPG",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"Sayaw Workshop","image":"https://culturalcenter.gov.ph/wp-content/uploads/2024/01/Bayanhian-Sayaw-Workshop.jpg","date":"2026-04-02","description":"Sayaw","id":"f068cb4e-0090-47b1-8f5a-bc3ae35982ed"},{"title":"Malikhaing Pinoy!!!!!","image":"https://www.createphilippines.com/folder_events/creative-events/2025_malikhaing_pinoy.jpg","date":"2026-03-13","description":"Creative Expo","id":"9313cb78-88df-4e48-a69c-f3e1d2200f46"}],"users":[{"email":"test@test.com","password":"$2a$12$2eVG1.aeImb0hOgzDlsvhe5/HqfS9y3ZJeUaXPK3DlUXY1ZHjsP5G","id":"29645e1b-6ee0-45a3-bd0c-217a23f23cc1"}]}
